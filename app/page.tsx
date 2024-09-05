@@ -5,7 +5,7 @@ import 'aos/dist/aos.css';
 
 import Banner from './_components/Banner';
 import Header from './_components/Header';
-import Explore from './_components/Explore';
+import Explore from './_components/explore';
 import Deals from './_components/orderDeals';
 import Selling from './_components/selling';
 import Testimonials from './_components/testimonial';
